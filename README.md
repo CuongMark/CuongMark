@@ -2,7 +2,8 @@
 
 Back-end developer, twelve years on one platform in two very different disciplines.
 
-The first six were at a commercial Magento extension vendor, building modules sold to
+The first six were at [Magestore](https://www.magestore.com/), a commercial Magento
+extension vendor, building modules sold to
 merchants worldwide: store locators, pickup and fulfilment, loyalty and store credit,
 point of sale. Extensions sold to the public have to install cleanly on thousands of
 sites you have never seen, on unknown themes and unknown third-party code. That teaches
